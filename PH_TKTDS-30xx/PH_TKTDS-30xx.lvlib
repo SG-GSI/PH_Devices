@@ -67,6 +67,7 @@
 		<Item Name="PH_TKTDS-30xx.panel.vi" Type="VI" URL="../PH_TKTDS-30xx.panel.vi"/>
 		<Item Name="PH_TKTDS-30xx.set modified data.vi" Type="VI" URL="../PH_TKTDS-30xx.set modified data.vi"/>
 		<Item Name="PH_TKTDS-30xx.Trigger Config.ctl" Type="VI" URL="../PH_TKTDS-30xx.Trigger Config.ctl"/>
+		<Item Name="PH_TKTDS-30xx.Waveform Limits.ctl" Type="VI" URL="../PH_TKTDS-30xx.Waveform Limits.ctl"/>
 		<Item Name="PH_TKTDS-30xx.Waveform to fetch.ctl" Type="VI" URL="../PH_TKTDS-30xx.Waveform to fetch.ctl"/>
 	</Item>
 	<Item Name="PH_TKTDS-30xx.contents.vi" Type="VI" URL="../PH_TKTDS-30xx.contents.vi"/>
