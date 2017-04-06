@@ -56,6 +56,7 @@
 		<Item Name="PH_gentec_P-Link.Evt Call Set Trigger Polarity.vi" Type="VI" URL="../PH_gentec_P-Link.Evt Call Set Trigger Polarity.vi"/>
 		<Item Name="PH_gentec_P-Link.Evt Call Set Trigger Source.vi" Type="VI" URL="../PH_gentec_P-Link.Evt Call Set Trigger Source.vi"/>
 		<Item Name="PH_gentec_P-Link.Evt Call Set Waveform Averages.vi" Type="VI" URL="../PH_gentec_P-Link.Evt Call Set Waveform Averages.vi"/>
+		<Item Name="PH_gentec_P-Link.Evt Call Set Zero.vi" Type="VI" URL="../PH_gentec_P-Link.Evt Call Set Zero.vi"/>
 		<Item Name="PH_gentec_P-Link.get data to modify.vi" Type="VI" URL="../PH_gentec_P-Link.get data to modify.vi"/>
 		<Item Name="PH_gentec_P-Link.Head Settings.ctl" Type="VI" URL="../PH_gentec_P-Link.Head Settings.ctl"/>
 		<Item Name="PH_gentec_P-Link.panel.vi" Type="VI" URL="../PH_gentec_P-Link.panel.vi"/>
