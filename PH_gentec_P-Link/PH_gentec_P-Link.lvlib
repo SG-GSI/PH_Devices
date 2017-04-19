@@ -16,7 +16,6 @@
 		<Item Name="PH_gentec_P-Link.get current Measurement.vi" Type="VI" URL="../PH_gentec_P-Link.get current Measurement.vi"/>
 		<Item Name="PH_gentec_P-Link.i attribute.ctl" Type="VI" URL="../PH_gentec_P-Link.i attribute.ctl"/>
 		<Item Name="PH_gentec_P-Link.i attribute.vi" Type="VI" URL="../PH_gentec_P-Link.i attribute.vi"/>
-		<Item Name="PH_gentec_P-Link.PC get and set current Settings for the first Time - 2.vi" Type="VI" URL="../PH_gentec_P-Link.PC get and set current Settings for the first Time - 2.vi"/>
 		<Item Name="PH_gentec_P-Link.PC Write PSDB.vi" Type="VI" URL="../PH_gentec_P-Link.PC Write PSDB.vi"/>
 		<Item Name="PH_gentec_P-Link.ProcEvents.vi" Type="VI" URL="../PH_gentec_P-Link.ProcEvents.vi"/>
 		<Item Name="PH_gentec_P-Link.range 2 limit.vi" Type="VI" URL="../PH_gentec_P-Link.range 2 limit.vi"/>
@@ -25,7 +24,6 @@
 		<Item Name="PH_gentec_P-Link.set Block Signal.vi" Type="VI" URL="../PH_gentec_P-Link.set Block Signal.vi"/>
 		<Item Name="PH_gentec_P-Link.set current Settings to GUI.vi" Type="VI" URL="../PH_gentec_P-Link.set current Settings to GUI.vi"/>
 		<Item Name="PH_gentec_P-Link.set Data Flow.vi" Type="VI" URL="../PH_gentec_P-Link.set Data Flow.vi"/>
-		<Item Name="PH_gentec_P-Link.set Default Settings.vi" Type="VI" URL="../PH_gentec_P-Link.set Default Settings.vi"/>
 		<Item Name="PH_gentec_P-Link.set Enable Anticipation.vi" Type="VI" URL="../PH_gentec_P-Link.set Enable Anticipation.vi"/>
 		<Item Name="PH_gentec_P-Link.set Head Attenuator.vi" Type="VI" URL="../PH_gentec_P-Link.set Head Attenuator.vi"/>
 		<Item Name="PH_gentec_P-Link.set i Attr.vi" Type="VI" URL="../PH_gentec_P-Link.set i Attr.vi"/>
